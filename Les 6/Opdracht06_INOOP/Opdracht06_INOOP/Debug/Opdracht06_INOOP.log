@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\kayleigh\documents\visual studio 2015\projects\opdracht06_inoop\opdracht06_inoop\main.cpp(16): warning C4129: 'B': unrecognized character escape sequence
+c:\users\kayleigh\documents\visual studio 2015\projects\opdracht06_inoop\opdracht06_inoop\main.cpp(16): warning C4129: 'O': unrecognized character escape sequence
+c:\users\kayleigh\documents\visual studio 2015\projects\opdracht06_inoop\opdracht06_inoop\main.cpp(25): warning C4129: 'B': unrecognized character escape sequence
+c:\users\kayleigh\documents\visual studio 2015\projects\opdracht06_inoop\opdracht06_inoop\main.cpp(25): warning C4129: 'O': unrecognized character escape sequence
+  Opdracht06_INOOP.vcxproj -> c:\users\kayleigh\documents\visual studio 2015\Projects\Opdracht06_INOOP\Debug\Opdracht06_INOOP.exe
+  Opdracht06_INOOP.vcxproj -> c:\users\kayleigh\documents\visual studio 2015\Projects\Opdracht06_INOOP\Debug\Opdracht06_INOOP.pdb (Partial PDB)
